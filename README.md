@@ -102,6 +102,10 @@ Example prompts used during development:
 
 ---
 
+## Personal Reflection
+Working on this project gave me a good introduction to Flutter Web. At first, I struggled with enabling Chrome as a device and figuring out some Git issues, but once I saw "Hello, Flutter Web!" running in the browser, it felt rewarding. I now feel more confident that I can explore Flutter further and build more complex web apps in the future.
+
+---
 ## How to submit
 - ZIP the project folder and attach it to your submission, or push the folder to GitHub and share the link.
 - If submitting the document separately, export this README.md to PDF and upload.
